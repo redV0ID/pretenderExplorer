@@ -65,8 +65,7 @@ Oceania
 Therodos`.split('\n')
 
 
-ma_nations = `
-Arcoscephale
+ma_nations = `Arcoscephale
 Ermor
 Sceleria
 Pythium
@@ -103,9 +102,7 @@ Oceania
 Ys
 `.split('\n')
 
-la_nations = 
-`
-Arcoscephale
+la_nations = `Arcoscephale
 Pythium
 Lemuria
 Man
