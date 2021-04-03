@@ -66,31 +66,31 @@ Therodos`.split('\n')
 
 
 ma_nations = `
-Arcoscephale,
-Ermor, 
-Sceleria, 
-Pythium, 
-Man, 
-Eriu, 
-Ulm,
-Marignon, 
-Mictlan, 
-T'ien Ch'i, 
-Machaka, 
-Agartha,
-Abysia, 
-Caelum, 
-C'tis, 
-Pangaea, 
-Asphodel, 
-Vanheim, 
-Jotunheim, 
+Arcoscephale
+Ermor
+Sceleria
+Pythium
+Man
+Eriu
+Ulm
+Marignon
+Mictlan
+T'ien Ch'i
+Machaka
+Agartha
+Abysia
+Caelum
+C'tis
+Pangaea
+Asphodel
+Vanheim
+Jotunheim
 Vanarus
 Bandar Log
 Shinuyama
 Ashdod
-Uruk, 
-Nazca, 
+Uruk
+Nazca
 Xibalba
 Phlegra
 Phaeacia
@@ -105,30 +105,30 @@ Ys
 
 la_nations = 
 `
-Arcoscephale, Sibylline Guidance
-Pythium, Serpent Cult
-Lemuria, Soul Gates
-Man, Towers of Chelms
-Ulm, Black Forest
-Marignon, Conquerors of the Sea
-Mictlan, Blood and Rain
-T'ien Ch'i, Barbarian Kings
-Jomon, Human Daimyos
-Agartha, Ktonian Dead
-Abysia, Blood of Humans
-Caelum, Return of the Raptors
-C'tis, Desert Tombs
-Pangaea, New Era
-Midgård, Age of Men
-Utgård, Well of Urd
-Bogarus, Age of Heroes
-Patala, Reign of the Nagas
-Gath, Last of the Giants
-Ragha, Dual Kingdom
-Xibalba, Return of the Zotz
-Phlegra, Sleeping Giants
-Vaettiheim, Wolf Kin Jarldom
-Atlantis, Frozen Sea
-R'lyeh, Dreamlands
-Erytheia, Kingdom of Two Worlds
+Arcoscephale
+Pythium
+Lemuria
+Man
+Ulm
+Marignon
+Mictlan
+T'ien Ch'i
+Jomon
+Agartha
+Abysia
+Caelum
+C'tis
+Pangaea
+Midgård
+Utgård
+Bogarus
+Patala
+Gath
+Ragha
+Xibalba
+Phlegra
+Vaettiheim
+Atlantis
+R'lyeh
+Erytheia
 `.split('\n')
