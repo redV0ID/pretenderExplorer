@@ -99,8 +99,7 @@ Atlantis
 R'lyeh
 Pelagia
 Oceania
-Ys
-`.split('\n')
+Ys`.split('\n')
 
 la_nations = `Arcoscephale
 Pythium
@@ -127,5 +126,4 @@ Phlegra
 Vaettiheim
 Atlantis
 R'lyeh
-Erytheia
-`.split('\n')
+Erytheia`.split('\n')
