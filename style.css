@@ -1,11 +1,11 @@
 body {
-    background-image: url(./img/speech-bubble-6109031_1920.jpg);
+    background-image: url(img/backgroundjpg);
 }
 
 .header {
     width: 100%;
     height: 3vh;
-    background-image: url(./img/ornament.png);
+    background-image: url(img/ornament.png);
 }
 button {
     background-color: goldenrod;
